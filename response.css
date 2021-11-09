@@ -1,0 +1,16 @@
+@media(max-width:890px){
+    .header-nav{
+        display: none;
+    }
+
+    .main-img img{
+        width: 100%;
+
+    }
+
+    .main-img{
+        width: 100%;
+        background-color: red;
+        position: absolute;
+    }
+}
